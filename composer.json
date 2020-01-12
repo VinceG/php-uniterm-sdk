@@ -1,5 +1,5 @@
 {
-    "name": "vinceg/uniterm",
+    "name": "vinceg/php-cups-print",
     "type": "library",
     "description": "PHP Uniterm SDK",
     "keywords": [
@@ -7,7 +7,7 @@
         "sdk",
         "uniterm"
     ],
-    "homepage": "https://github.com/vinceg/uniterm",
+    "homepage": "https://github.com/vinceg/php-cups-print",
     "license": "MIT",
     "authors": [
         {
