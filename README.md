@@ -7,7 +7,7 @@ Allows to communicate with the Uniterm through the SDK.
 Via Composer
 
 ``` bash
-$ composer require vinceg/uniterm
+$ composer require vinceg/php-uniterm-sdk
 ```
 
 
