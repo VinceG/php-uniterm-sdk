@@ -5,7 +5,6 @@ declare(strict_types=1);
 namespace Uniterm\Actions;
 
 use Uniterm\Client;
-use Uniterm\Response;
 use Uniterm\Actions\BaseAction;
 
 class InputTest extends BaseAction

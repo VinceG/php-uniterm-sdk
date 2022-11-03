@@ -6,7 +6,6 @@ namespace Uniterm;
 
 use Uniterm\Client;
 use Uniterm\TestCase;
-use Uniterm\XMLBuilder;
 
 class ClientTest extends TestCase
 {

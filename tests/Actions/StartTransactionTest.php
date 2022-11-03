@@ -4,7 +4,6 @@ declare(strict_types=1);
 
 namespace Uniterm\Actions;
 
-use Uniterm\Response;
 use Uniterm\Actions\BaseAction;
 
 class StartTransactionTest extends BaseAction
