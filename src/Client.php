@@ -7,8 +7,6 @@ namespace Uniterm;
 use Uniterm\Response;
 use Webmozart\Assert\Assert;
 use GuzzleHttp\Client as HttpClient;
-use Psr\Http\Message\ResponseInterface;
-use GuzzleHttp\Exception\RequestException;
 
 class Client
 {
